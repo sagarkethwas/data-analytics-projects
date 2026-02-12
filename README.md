@@ -20,6 +20,12 @@ This repository contains data analysis and machine learning projects developed u
 - NLP based fake news classification
 - Techniques: TF-IDF and Logistic Regression
 - Tool: Python
+###4. Exploratory Data Analysis (EDA)
+Performed EDA on a Telecom Customer Churn dataset.
+Analyzed churn rate, tenure, contract type, internet service and customer demographics.
+Extracted business insights and retention strategies.
+Tools: Python, Pandas, Matplotlib, Seaborn
+
 
 ## Skills Used
 - Python
