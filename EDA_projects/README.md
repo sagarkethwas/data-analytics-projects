@@ -17,4 +17,4 @@ Tenure: Customers with tenure under 12 months contribute ~50% of churn, emphasiz
 
 Overall, churn is primarily driven by contract type, tenure, and internet service type. The findings suggest that encouraging longer-term contracts, offering security and support add-ons, and targeted retention efforts for new and fiber optic customers could significantly reduce churn.
 
-Would you like me to make this dataset-specific by actually processing your file (if you upload the CSV you used in this notebook)? That way, I can give you exact percentages from your analysis instead of general industry numbers.
+
